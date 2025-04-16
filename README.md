@@ -37,10 +37,10 @@ This project is focused on building a real-time face recognition application usi
 ![Dataset Generation](images/data.png)
 
 ### 🧠 Model Training
-![Model Training](images/WhatsAppImage2025-04-16at21.15.47.jpeg)
+![Model Training](images/WhatsAppImage.jpeg)
 
 ### 🧍 Face Detection & Recognition
-![Face Recognition](images/WhatsAppVideo2025-04-16at21.15.46.mp4)
+![Face Recognition](images/WhatsApp.jpeg)
 
 
 ## 🔧 Tech Stack
